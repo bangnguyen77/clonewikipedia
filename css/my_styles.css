@@ -1,0 +1,24 @@
+.portal-links {
+  float:right;
+}
+.pcimg {
+  float:left;
+  padding: 10px;
+}
+
+.byimg {
+  float:right;
+  padding: 10px;
+}
+
+.col-sm-6 {
+  border: 1px solid gray;
+}
+
+.row {
+  margin: 5px;
+}
+
+h4 {
+  border: 1px solid gray;
+}
